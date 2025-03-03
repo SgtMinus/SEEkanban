@@ -1,1 +1,2 @@
-# SEEkanban
+# SEEkanban  
+Checkign YouTrack integration
