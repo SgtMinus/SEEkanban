@@ -1,2 +1,2 @@
 # SEEkanban  
-Checkign YouTrack integration
+Checking YouTrack integration
